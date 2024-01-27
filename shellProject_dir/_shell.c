@@ -1,6 +1,6 @@
 #include <stdio.h>
-#includde <stdlib.h>
-#inlcude <sys/wait.h>
+#include <stdlib.h>
+#include <sys/wait.h>
 #include <unistd.h>
 #include <string.h>
 
@@ -8,7 +8,7 @@ void type_prompt()
 {
 	static int first_time = 1;
 
-	if (firs_time)
+	if (first_time)
 	{
 		/*create clear screen when called for the first time*/
 		const char *CLEAR_SCREEN_ANSI = "\e[1;1H\e[2J";

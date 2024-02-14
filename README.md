@@ -1,2 +1,2 @@
 # github-test
-An example of how to create and set up a Github repo with some files. 
+Holds landing page for AgileFlow task management app (MVP.v1)

@@ -129,6 +129,7 @@
   #about p {
     font-family: "Courier New", Copperplate, serif;
     line-height: 30pt;
+    color: black;
   }
   #about h2 {
     margin-top: 0;
@@ -193,8 +194,16 @@
   .footer {
     position: relative;
     bottom: -30px;
-    margin-top: 71px;
+    margin-top: 117px;
   }
   .developer-1 .footer {
-    margin-top: 0;
+    margin-top: 39px;
+  }
+  .fa-user {
+    position: relative;
+    top: 50px;
+  }
+  .bio {
+    position: relative;
+    top: 77px;
   }

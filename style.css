@@ -1,4 +1,7 @@
-  body {
+* {
+  box-sizing: border-box;
+}
+body {
     margin: 0;
     background: #c2c9c3;
     font-size: 1.0vw;

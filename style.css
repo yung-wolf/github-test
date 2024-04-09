@@ -200,6 +200,9 @@ body {
   }
   .developer i {
       z-indez: 2;
+      width: 35%;
+      border-radius: 40%;
+      margin-top: 20px;
   }
   .footer {
     position: relative;

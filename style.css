@@ -199,6 +199,7 @@ body {
     margin-top: 20px;
   }
   .developer i {
+      display: inline-block;
       z-indez: 2;
       width: 35%;
       border-radius: 40%;

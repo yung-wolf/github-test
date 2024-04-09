@@ -192,7 +192,9 @@
     height: auto;
     border-radius: 40%;
     margin-top: 20px;
-    z-index: 2;
+  }
+  .developer i {
+      z-indez: 2;
   }
   .footer {
     position: relative;

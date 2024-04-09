@@ -59,14 +59,16 @@
   nav a {
     color: #333;
     padding: 14px 16px;
-    font-size: 1.2em;
+    font-size: 1.4em;
     font-family: Papyrus, Garamond, "Lucida Console", "Courier New", Copperplate, serif;
   }
   a {
     text-decoration: none;
+    color: #333;
   }
   a:hover {
     color: rgb(0, 255, 81);
+    text-decoration: underline;
   }
   span {
     width: 100px;
